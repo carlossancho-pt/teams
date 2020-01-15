@@ -1,0 +1,263 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Associação Académica de Coimbra",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Associa%C3%A7%C3%A3o_Acad%C3%A9mica_de_Coimbra_logo.svg/1200px-Associa%C3%A7%C3%A3o_Acad%C3%A9mica_de_Coimbra_logo.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Clube Desportivo Nacional Futebol, SAD",
+      "image": "https://cdn.freebiesupply.com/logos/large/2x/cd-nacional-da-madeira-1-logo-png-transparent.png"
+    },
+    {
+      "id": 3,
+      "name": "Estoril Praia - Futebol, SAD",
+      "image": "https://estorilpraia.pt/wp-content/uploads/2019/02/Estoril-Praia-Futebol-SAD.png"
+    },
+    {
+      "id": 4,
+      "name": "Futebol Clube de Arouca",
+      "image": "https://www.zerozero.pt/img/logos/equipas/3555_imgbank.png"
+    },
+    {
+      "id": 5,
+      "name": "Futebol Clube de Paços de Ferreira",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/3/3d/Futebol_Clube_Pa%C3%A7os_de_Ferreira.png"
+    },
+    {
+      "id": 6,
+      "name": "Futebol Clube do Porto",
+      "image": "https://i.pinimg.com/originals/3a/d3/cd/3ad3cdf27c4e40bf6ee96d99fddd0d6e.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gil Vicente Futebol Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/27/Logo_Gil_Vicente.svg/1200px-Logo_Gil_Vicente.svg.png"
+    },
+    {
+      "id": 8,
+      "name": "Maritimo da Madeira",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_CS_Maritimo.png"
+    },
+    {
+      "id": 9,
+      "name": "Os Belenenses",
+      "image": "https://pbs.twimg.com/media/D1Zxk_vWwAAujsU.png"
+    },
+    {
+      "id": 10,
+      "name": "Rio Ave Futebol Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f5/Logo_Rio_Ave.png"
+    },
+    {
+      "id": 11,
+      "name": "Sport Lisboa e Benfica",
+      "image": "https://i.pinimg.com/originals/fe/65/33/fe6533492c179654b7abc8c6a541aef7.png"
+    },
+    {
+      "id": 12,
+      "name": "Sporting Clube de Braga",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f9/150px-Sporting_Clube_Braga.png"
+    },
+    {
+      "id": 13,
+      "name": "Sporting Clube de Portugal",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png"
+    },
+    {
+      "id": 14,
+      "name": "Sporting Clube Olhanense",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_Olhanense.png"
+    },
+    {
+      "id": 15,
+      "name": "Vitória Futebol Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/1/15/Logo_Vit%C3%B3ria_de_Set%C3%BAbal.png"
+    },
+    {
+      "id": 16,
+      "name": "Vitória Sport Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/b/b3/VitoriaGuimaraes.png"
+    }
+  ],
+  "teamDetails": [
+    {
+      "id": 1,
+      "name": "Associação Académica de Coimbra",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Associa%C3%A7%C3%A3o_Acad%C3%A9mica_de_Coimbra_logo.svg/1200px-Associa%C3%A7%C3%A3o_Acad%C3%A9mica_de_Coimbra_logo.svg.png",
+      "city": "Coimbra",
+      "stadium": "Estádio Cidade de Coimbra",
+      "address": "Academia Dolce Vita \nEstrada Nacional 111-1 \n3025-300 Coimbra",
+      "phone": "239793890",
+      "fax": "239793893",
+      "email": "geral@academica-oaf.pt"
+    },
+    {
+      "id": 2,
+      "name": "Clube Desportivo Nacional Futebol, SAD",
+      "image": "https://cdn.freebiesupply.com/logos/large/2x/cd-nacional-da-madeira-1-logo-png-transparent.png",
+      "city": "Funchal",
+      "stadium": "Estádio da Madeira",
+      "address": "Complexo Desportivo CD Nacional \nAlameda Engenheiro Rui Alves \n9060-041 Funchal",
+      "phone": "291227324",
+      "fax": "291225590",
+      "email": "geral@cdnacional.pt"
+    },
+    {
+      "id": 3,
+      "name": "Estoril Praia - Futebol, SAD",
+      "image": "https://estorilpraia.pt/wp-content/uploads/2019/02/Estoril-Praia-Futebol-SAD.png",
+      "city": "Estoril",
+      "stadium": "Estádio António Coimbra da Mota",
+      "address": "Estádio António Coimbra da Mota\n2765-437 Estoril",
+      "phone": "214661002",
+      "fax": "214664426",
+      "email": "geral@estorilpraia.pt"
+    },
+    {
+      "id": 4,
+      "name": "Futebol Clube de Arouca",
+      "image": "https://www.zerozero.pt/img/logos/equipas/3555_imgbank.png",
+      "city": "Arouca",
+      "stadium": "Estádio Municipal de Arouca",
+      "address": "Estádio Municipal de Arouca\n4540-167 Arouca",
+      "telefone": "256941217",
+      "fax": "256941217",
+      "email": "geral@fcarouca.pt"
+    },
+    {
+      "id": 5,
+      "name": "Futebol Clube de Paços de Ferreira",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/3/3d/Futebol_Clube_Pa%C3%A7os_de_Ferreira.png",
+      "city": "Paços de Ferreira",
+      "stadium": "Estádio Capital do Móvel",
+      "address": "Rua do Estádio\nApartado 26\n4590-571 Paços de Ferreira",
+      "phone": "255965230",
+      "fax": "255866149",
+      "email": "geral@fcpf.pt"
+    },
+    {
+      "id": 6,
+      "name": "Futebol Clube do Porto",
+      "image": "https://i.pinimg.com/originals/3a/d3/cd/3ad3cdf27c4e40bf6ee96d99fddd0d6e.jpg",
+      "city": "Porto",
+      "stadium": "Estádio do Dragão",
+      "address": "Estádio do Dragão - via FC Porto,\nEntrada Poente - Piso 3\n4350-451 Porto",
+      "phone": "225070500",
+      "fax": "225070550",
+      "email": "geral@fcporto.pt"
+    },
+    {
+      "id": 7,
+      "name": "Gil Vicente Futebol Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/27/Logo_Gil_Vicente.svg/1200px-Logo_Gil_Vicente.svg.png",
+      "city": "Barcelos",
+      "stadium": "Estádio Cidade de Barcelos",
+      "address": "Rua D. Diogo Pinheiro, nº 25\n4750-282 Barcelos",
+      "phone": "253811523",
+      "fax": "253823102",
+      "email": "geral@gilvicentefc.pt"
+    },
+    {
+      "id": 8,
+      "name": "Marítimo da Madeira",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_CS_Maritimo.png",
+      "city": "Funchal",
+      "stadium": "Estádio do Marítimo",
+      "address": "Complexo Desportivo C. S. Marítimo\nRua Campo do Marítimo\n9020-208 Funchal",
+      "phone": "291708300",
+      "fax": "291708310",
+      "email": "geral@csmaritimo.pt"
+    },
+    {
+      "id": 9,
+      "name": "Os Belenenses",
+      "image": "https://pbs.twimg.com/media/D1Zxk_vWwAAujsU.png",
+      "city": "Lisboa",
+      "stadium": "Estádio de Honra do Centro Desportivo Nacional do Jamor",
+      "address": "Núcleo Central, 268 Taguspark \n2740-122 Porto Salvo",
+      "phone": "",
+      "fax": "",
+      "email": "mediaoffice@osbelenensessad.com"
+    },
+    {
+      "id": 10,
+      "name": "Rio Ave Futebol Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f5/Logo_Rio_Ave.png",
+      "city": "Vila do Conde",
+      "stadium": "Estádio do Rio Ave Futebol Clube",
+      "address": "Estádio do Rio Ave F.C.\nRua D. Sancho I\n4480-876 Vila do Conde",
+      "phone": "252640590",
+      "fax": "252640599",
+      "email": "geral@rioavefc.pt"
+    },
+    {
+      "id": 11,
+      "name": "Sport Lisboa e Benfica",
+      "image": "https://i.pinimg.com/originals/fe/65/33/fe6533492c179654b7abc8c6a541aef7.png",
+      "city": "Lisboa",
+      "stadium": "Estádio do Sport Lisboa e Benfica",
+      "address": "Av. Eusébio da Silva Ferreira\nEstádio do Sport Lisboa e Benfica\n1500-313 Lisboa",
+      "phone": "217219555",
+      "fax": "217219546",
+      "email": "sec.geral@slbenfica.pt"
+    },
+    {
+      "id": 12,
+      "name": "Sporting Clube de Braga",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f9/150px-Sporting_Clube_Braga.png",
+      "city": "Braga",
+      "stadium": "Estádio Municipal de Braga",
+      "address": "Estádio Municipal de Braga - Parque norte\nApartado 12 - Monte Crasto\n4700-087 Braga",
+      "phone": "253206860",
+      "fax": "253612929",
+      "email": "mail@scbraga.pt"
+    },
+    {
+      "id": 13,
+      "name": "Sporting Clube de Portugal",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png",
+      "city": "Lisboa",
+      "stadium": "Estádio José Alvalade",
+      "address": "Estádio José Alvalade\nRua Prof. Fernando da Fonseca - Apartado 42099\n1601-801 Lisboa",
+      "phone": "217516000",
+      "fax": "212327492",
+      "email": "secretaria@sporting.pt"
+    },
+    {
+      "id": 14,
+      "name": "Sporting Clube Olhanense",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f2/Logo_Olhanense.png",
+      "city": "Olhão",
+      "stadium": "Estádio José Arcanjo",
+      "address": "Estádio José Arcanjo\nRua da Feira\n8700-312 Olhão",
+      "phone": "289702632",
+      "fax": "289707155",
+      "email": "geral@scosad.pt"
+    },
+    {
+      "id": 15,
+      "name": "Vitória Futebol Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/1/15/Logo_Vit%C3%B3ria_de_Set%C3%BAbal.png",
+      "city": "Setúbal",
+      "stadium": "Estádio do Bonfim",
+      "address": "Estádio do Bonfim - Apartado 132\n2902-882 Setúbal",
+      "phone": "265529959",
+      "fax": "265523133",
+      "email": "sad@vfc.pt"
+    },
+    {
+      "id": 16,
+      "name": "Vitória Sport Clube",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/b/b3/VitoriaGuimaraes.png",
+      "city": "Guimarães",
+      "stadium": "Estádio D. Afonso Henriques",
+      "address": "Complexo Desportivo\nRua Antero Henriques da Silva,1370\n4810-026 Guimarães",
+      "phone": "253432570",
+      "fax": "253432573",
+      "email": "geral@vitoriasc.pt"
+    }
+  ]
+
+}
